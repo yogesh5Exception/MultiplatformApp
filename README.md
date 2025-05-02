@@ -63,5 +63,3 @@ Because KMP compiles directly to native code, it avoids the performance overhead
   Apple requires a **macOS system** to build and run iOS/macOS apps.
 
 ---
-
-Let me know if you'd like me to help generate a full `README.md` including build instructions, folder structure, or contribution guidelines.
